@@ -4,6 +4,10 @@
 
 连续点击鼠标左键让小鸟不碰到水管，每通过一个水管即可得 1 分。
 
+## 在线DEMO
+
+在线地址：https://bluesgavin.github.io/FlappyBird/
+
 ## 使用方法
 
 安装依赖
